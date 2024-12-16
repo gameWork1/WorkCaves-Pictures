@@ -1,0 +1,19 @@
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    top: 0;
+    height: 100%;
+    width: 100%;
+}
+header{
+    top: 0;
+    height: 100%;
+    width: 100%;
+    align-items: flex-start;
+}
+
+li a{
+    font-size: 30px;
+}
