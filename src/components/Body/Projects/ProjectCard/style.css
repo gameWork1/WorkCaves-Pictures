@@ -1,0 +1,9 @@
+.info{
+    display: flex;
+    flex-direction: row;
+    font-family: titleFont;
+}
+
+.content{
+    font-family: font;
+}

@@ -1,0 +1,10 @@
+.paragraph{
+    display: flex;
+    flex-direction: column;
+    font-family: titleFont;
+}
+
+.content{
+    font-family: font;
+}
+

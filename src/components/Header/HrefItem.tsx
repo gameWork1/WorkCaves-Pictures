@@ -12,7 +12,7 @@ const HrefItem:FC<HrefProps> = (props: HrefProps) => {
 
     return (
         <>
-            <a target={target} href={href}>{text}</a>
+            <a style={{textDecorationLine: "none", color: "white"}} target={target} href={href}>{text}</a>
         </>
     )
 }
